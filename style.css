@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+p{
+    font-size: 10rem;
+    color: red;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
